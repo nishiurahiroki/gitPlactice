@@ -1,0 +1,12 @@
+[07-Nov-2016 05:13:55 UTC] PHP Fatal error:  Class 'Route' not found in /home/ubuntu/workspace/laravel/app/Http/routes.php on line 14
+[07-Nov-2016 05:13:55 UTC] PHP Stack trace:
+[07-Nov-2016 05:13:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/laravel/app/Http/routes.php:0
+[07-Nov-2016 05:15:53 UTC] PHP Fatal error:  Class 'Route' not found in /home/ubuntu/workspace/laravel/app/Http/routes.php on line 14
+[07-Nov-2016 05:15:53 UTC] PHP Stack trace:
+[07-Nov-2016 05:15:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/laravel/app/Http/routes.php:0
+[08-Nov-2016 08:26:24 UTC] PHP Fatal error:  Class 'Route' not found in /home/ubuntu/workspace/laravel/app/Http/routes.php on line 20
+[08-Nov-2016 08:26:24 UTC] PHP Stack trace:
+[08-Nov-2016 08:26:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/laravel/app/Http/routes.php:0
+[09-Nov-2016 00:24:26 UTC] PHP Fatal error:  Class 'Route' not found in /home/ubuntu/workspace/laravel/app/Http/routes.php on line 20
+[09-Nov-2016 00:24:26 UTC] PHP Stack trace:
+[09-Nov-2016 00:24:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/laravel/app/Http/routes.php:0
